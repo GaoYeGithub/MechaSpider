@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/989799cb-756b-41a7-91ab-f7d2de48025b)---
+---
 title: "Mecha Spider"
 author: "Ye Gao"
 description: "Spider ball mech thingy, well not really a spider but more of a quadruped robot. Kinda of like this the Carl Bugeja one but like bigger and cooler"
