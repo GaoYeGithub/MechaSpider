@@ -1,5 +1,5 @@
 ---
-title: "Mecha Spider"
+title: "Sphere quadruped robot"
 author: "Ye Gao"
 description: "Spider ball mech thingy, well not really a spider but more of a quadruped robot. Kinda of like this the Carl Bugeja one but like bigger and cooler"
 created_at: "2025-06-9"
