@@ -26,3 +26,14 @@ Made the chassis connected the the standard servo, I tweak the desgin a bit but 
 ![image](https://github.com/user-attachments/assets/946914f2-1a3b-4739-8659-f41993681c90)
 
 **Total time spent: 3.5h**
+
+# June 10: 
+
+Made the standard servo to mircoservo connector. I probaly need some tape for this but it should be a decent fit
+
+![image](https://github.com/user-attachments/assets/0ff1e84b-a5cb-4532-a630-bac4c81af1e3)
+![image](https://github.com/user-attachments/assets/5e657812-043f-4e0a-b490-94a02837a727)
+![image](https://github.com/user-attachments/assets/ffc5f56c-e7f4-4acd-9516-2f322ac249e5)
+![image](https://github.com/user-attachments/assets/abf2b501-275d-448f-bb3d-4038497a0fbe)
+
+**Total time spent: 1.5h**
