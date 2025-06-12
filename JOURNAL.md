@@ -37,3 +37,15 @@ Made the standard servo to mircoservo connector. I probaly need some tape for th
 ![image](https://github.com/user-attachments/assets/abf2b501-275d-448f-bb3d-4038497a0fbe)
 
 **Total time spent: 1.5h**
+
+# June 10: 
+
+Added the second joint, I'm think of using glue for stronger connection it should probably work.
+
+![image](https://github.com/user-attachments/assets/0f3baade-2d13-4c5a-beab-318bb1757161)
+![image](https://github.com/user-attachments/assets/f25b6f0d-e5e8-49ab-a519-5e2bcfeac35d)
+![image](https://github.com/user-attachments/assets/b4f2448c-bd09-46ff-914c-aed89916d264)
+
+**Total time spent: 2.5h**
+
+
