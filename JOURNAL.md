@@ -46,6 +46,15 @@ Added the second joint, I'm think of using glue for stronger connection it shoul
 ![image](https://github.com/user-attachments/assets/f25b6f0d-e5e8-49ab-a519-5e2bcfeac35d)
 ![image](https://github.com/user-attachments/assets/b4f2448c-bd09-46ff-914c-aed89916d264)
 
-**Total time spent: 2.5h**
+**Total time spent: 2h**
 
+
+# June 12
+
+I finish the frame I couldn,t get a smooth bottom nor use fill pattern on the sphere so I had to adapt a bit now how should I go about coding this thing
+
+![image](https://github.com/user-attachments/assets/067124d2-6025-4826-a25b-5b2ec829a674)
+![image](https://github.com/user-attachments/assets/220fc39c-f54d-4802-b7fc-547c157e7d35)
+
+**Total time spend: 4h**
 
